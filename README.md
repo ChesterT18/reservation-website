@@ -1,1 +1,1 @@
-# reservation-website
+# Sample Reservation Website
